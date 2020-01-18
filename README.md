@@ -10,8 +10,9 @@ Cosmic Dance Source Searcher
 ################################## How to use it ######################################
 # First, you need to create a new account on CFHT and ESO archives telescope so as you
 # can download the images. Then before running the code, make sure you already have the
-# following modules in python 2.7:
+# latest version of python 2.7 and the following modules:
 
+# - pip
 # - numpy
 # - tqdm
 # - requests
@@ -19,4 +20,6 @@ Cosmic Dance Source Searcher
 # - astroquery
 # - pandas
 # - logging
+
+# hint : to download the module you can use the command pip
 
